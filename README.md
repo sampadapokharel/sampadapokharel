@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # I'm Sampada Pokharel
 
@@ -10,6 +10,6 @@
 
 ## Connect with me:
 
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-dark.png](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 
 ![Sampada's GitHub stats](https://github-readme-stats.vercel.app/api?username=sampadapokharel&show_icons=true&theme=merko)
